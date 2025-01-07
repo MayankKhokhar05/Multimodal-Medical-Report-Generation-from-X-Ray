@@ -1,2 +1,2 @@
-# Multimodal-Medical-Report-Generation-from-X-Ray
-This is a model that generates medical report from X-Ray
+https://openi.nlm.nih.gov/imgs/collections/NLMCXR_png.tgz
+https://openi.nlm.nih.gov/imgs/collections/NLMCXR_reports.tgz
